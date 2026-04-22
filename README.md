@@ -2,9 +2,8 @@
 
 ## Hasil Akhir
 Bagian ini menampilkan tampilan utama dari form registrasi yang telah berhasil diimplementasikan.
-
+![Hasil](/awal.png)
 ### Form Registrasi Event berisi:
-
 - **Nama Lengkap (Text):** Input untuk nama pendaftar.  
 - **Email (Email validation):** Input dengan validasi format email.  
 - **Password (Min. 8 karakter):** Input password dengan keamanan minimal 8 karakter.  
@@ -24,6 +23,6 @@ Sistem akan memberikan feedback visual dan pesan peringatan jika input yang dima
 - **Bio:** Menampilkan pesan *"Bio harus diisi"* jika textarea kosong.  
 
 ## Fitur Tambahan
-
+![Hasil](/valid.png)
 - **Show/Hide Password:** Pengguna dapat melihat atau menyembunyikan password yang sedang diketik.  
 - **Loading State:** Tombol akan berubah menjadi *"Loading..."* saat proses pengiriman data berlangsung untuk mencegah pengiriman ganda.  
