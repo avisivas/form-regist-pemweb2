@@ -22,7 +22,7 @@ Sistem akan memberikan feedback visual dan pesan peringatan jika input yang dima
 - **Kategori Event:** Menampilkan pesan *"Pilih salah satu"* jika belum ada kategori yang dipilih.  
 - **Bio:** Menampilkan pesan *"Bio harus diisi"* jika textarea kosong.  
 
-## Tampilan Saat Validasi Valid
+## Tampilan Saat Validasi Benar
 ![Hasil](/valid.png)
 Tampilan ini menunjukkan kondisi form ketika semua input valid, sehingga tidak ada pesan error yang muncul. Saat tombol Daftar diklik, akan muncul teks Loading... sebagai tanda proses berlangsung, lalu setelah beberapa saat akan kembali menjadi Daftar. Selain itu, jika diperiksa melalui console pada browser, data yang diinput akan tampil, yang menandakan form telah berjalan dengan baik.
 
